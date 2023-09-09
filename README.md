@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2 align="center">I'm Douglas 👋 </p>Software Developer | Accountant | Postgraduate in Taxation and Business</h2>
 
-<!--
-**douglimaonline/douglimaonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglimaonline&layout=donut&theme=transparent&hide_border=true&title_color=d9d8d3" alt="stats"><br />
+  
+<a href="https://github.com/douglimaonline/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Portfolio&theme=transparent&title_color=d9d8d3&hide_border=true" />
+</a>
+<a href="https://github.com/douglimaonline/Csharp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Csharp&theme=transparent&title_color=d9d8d3&hide_border=true" />
+</a>
+</div>
