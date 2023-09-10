@@ -9,10 +9,10 @@
 
 <!-- Repositories -->
 <div align="center"<br>
-  <a href="https://douglimaonline.github.io/meu-site">
+  <a href="https://douglimaonline.github.io/meu-site" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=meu-site&theme=transparent&title_color=d9d8d3&hide_border=true" />
 </a>
-<a href="https://github.com/douglimaonline/Csharp">
+<a href="https://github.com/douglimaonline/Csharp" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Csharp&theme=transparent&title_color=d9d8d3&hide_border=true" />
 </a>
 </div>
