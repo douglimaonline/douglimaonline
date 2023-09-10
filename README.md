@@ -8,14 +8,21 @@
 
 
 <!-- Repositories -->
-<div align="start">
-<a weight="5px" href="https://github.com/douglimaonline/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Portfolio&theme=transparent&title_color=d9d8d3&hide_border=true" />
+<div align="center"<br>
+  <a href="https://douglimaonline.github.io/meu-site">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=meu-site&theme=transparent&title_color=d9d8d3&hide_border=true" />
 </a>
 <a href="https://github.com/douglimaonline/Csharp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Csharp&theme=transparent&title_color=d9d8d3&hide_border=true" />
 </a>
-<a href="https://douglimaonline.github.io/meu-site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=meu-site&theme=transparent&title_color=d9d8d3&hide_border=true" />
-</a>
+</div>
+
+<!-- DevIcons -->
+<div align="end" style="display: inline-block;"><br>
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div>
