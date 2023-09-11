@@ -1,5 +1,11 @@
-<h2 align="center">I'm Douglas 👋 </p>Software Developer | Accountant | Postgraduate in Taxation and Business</h2>
+## <h2 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Douglas Barboza!](https://www.linkedin.com/in/douglas-barboza/)</p>Software Developer | Accountant | Postgraduate in Taxation and Business</h2>
 
+🌎 Rio de Janeiro 🇧🇷 <br>
+🌱 I'm currently studying C# and its different applications. <br>
+🥅  I am passionate about back-end developer and data sciente. <br>
+🎵 I love good [music](https://open.spotify.com/playlist/0L9xYN5qS2Gu5jCFj6SIrC) ;)
+<br>
+<br>
 
 <!-- Most Used Lenguage Stats -->
 <div align="center">
