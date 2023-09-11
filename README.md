@@ -2,7 +2,7 @@
 
 🌎 Rio de Janeiro 🇧🇷 <br>
 🌱 I'm currently studying C# and its different applications. <br>
-🥅  I am passionate about back-end developer and data sciente. <br>
+🥅  I am passionate about back-end developer and data science. <br>
 🎵 I love good [music](https://open.spotify.com/playlist/0L9xYN5qS2Gu5jCFj6SIrC) ;)
 <br>
 <br>
