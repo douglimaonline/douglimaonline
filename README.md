@@ -2,20 +2,20 @@
 
 <!-- About me -->
 <div>
-<img src="https://readme-typing-svg.demolab.com?font=Londrina+Outline&size=30&pause=500&color=FFFFFF&width=435&lines=About+me:"/>
+<img src="https://readme-typing-svg.demolab.com?font=Londrina+Outline&size=30&pause=500&color=D4C5BB&width=435&lines=About+me:"/>
 </div>
 
 🌎 Rio de Janeiro. 🇧🇷 <br>
 🌱 I'm currently studying C# and its different applications. <br>
 🥅  I am passionate about back-end developer and data science. <br>
-🐕 I'm a dog person and have a dog called Nina. <3 <br>
+🐕 I have a dog called Nina. <3 <br>
 🎵 I love good [music](https://open.spotify.com/playlist/0L9xYN5qS2Gu5jCFj6SIrC) ;) <br>
 <br>
 <br>
 
 <!-- Most Used Lenguage Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglimaonline&layout=donut&theme=transparent&hide_border=true&title_color=FFFFFF&include_all_commits=true&langs_count=7&hide=Rich+Text+Format,html"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglimaonline&layout=donut&theme=transparent&hide_border=true&title_color=D4C5BB&include_all_commits=true&langs_count=7&hide=Rich+Text+Format,html"
     alt="stats"><br />
 </div>
 
@@ -23,10 +23,10 @@
 <!-- Repositories -->
 <div align="center"<br>
   <a href="https://douglimaonline.github.io/meu-site" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=meu-site&theme=transparent&title_color=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=meu-site&theme=transparent&title_color=D4C5BB&hide_border=true" />
 </a>
 <a href="https://github.com/douglimaonline/Csharp" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Csharp&theme=transparent&title_color=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Csharp&theme=transparent&title_color=D4C5BB&hide_border=true" />
 </a>
 </div>
 
