@@ -1,4 +1,4 @@
-### <h2 align="center">Hello, I'm [Douglas Barboza](https://www.linkedin.com/in/douglas-barboza/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>Software Developer | Accountant | Postgraduate in Taxation and Business</h2> <br>
+### <h2 align="center"> Hello, I'm [Douglas Barboza](https://www.linkedin.com/in/douglas-barboza/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></p>Software Developer | Accountant | Postgraduate in Taxation and Business</h2> <br>
 
 <!-- About me -->
 <div>
