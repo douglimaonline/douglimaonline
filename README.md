@@ -16,8 +16,10 @@
 
 <!-- Most Used Lenguage Stats -->
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=douglimaonline&hide=contribs&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&hide_rank=true&card_width=320&locale=pt-br">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglimaonline&layout=donut&theme=transparent&hide_border=true&title_color=D4C5BB&include_all_commits=true&langs_count=7&hide=Rich+Text+Format,html"
     alt="stats"><br />
+ <br>
 </div>
 
 
