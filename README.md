@@ -10,7 +10,7 @@
 🥅  I am passionate about back-end developer and data science. <br>
 🐶 I have a dog called Nina. <3 <br>
 🎵 I love good [music](https://open.spotify.com/playlist/0L9xYN5qS2Gu5jCFj6SIrC) ;) <br>
- 📚 My [portfolio](https://douglimaonline.github.io/meu-site/) \o/ <br> 
+ 📚 My [portfolio](https://douglimaonline.github.io/meu-site/) o/ <br> 
 <br>
 <br>
 
