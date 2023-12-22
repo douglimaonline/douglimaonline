@@ -16,7 +16,7 @@
 
 <!-- Most Used Lenguage Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=douglimaonline&hide=contribs&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&hide_rank=true&card_width=320&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api?username=douglimaonline&hide=contribs&show_icons=true&theme=transparent&hide_border=true&title_color=D4C5BB&hide_rank=true&card_width=320&locale=pt-br">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglimaonline&layout=donut&theme=transparent&hide_border=true&title_color=D4C5BB&include_all_commits=true&langs_count=7&hide=Rich+Text+Format,html"
     alt="stats"><br />
  <br>
@@ -35,12 +35,16 @@
 
 <!-- DevIcons -->
 <div align="end" style="display: inline-block;"><br>
-<img alt="csharp-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img alt="python-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="csharp-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img alt="bootstrap-icon" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img alt="python-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="bootstrap-icon" height="29" width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img alt="javascript-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="html5-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img alt="css3-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 </div>
 
 ##
