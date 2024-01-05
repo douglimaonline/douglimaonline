@@ -1,4 +1,4 @@
-### <h2 align="center">Hello, I'm [Douglas Barboza](https://www.linkedin.com/in/douglas-barboza/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></img><br>Software Developer | C# | .NET 6.0 | SQL | JavaScript | ReactJS</h2> <br>
+### <h2 align="center">Hello, I'm [Douglas Barboza](https://www.linkedin.com/in/douglas-barboza/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></img><br>Software Developer | C# | .NET 6.0 | SQL | JavaScript</h2> <br>
 
 <!-- About me -->
 <div>
