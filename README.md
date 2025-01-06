@@ -9,7 +9,7 @@
 🌱 I'm currently studying C# and its different applications. <br>
 🥅  I am passionate about back-end developer and data science. <br>
 🐶 !'m a dog person. <br>
-🎵 I love [music](https://open.spotify.com/intl-pt/track/5LpLw3R6TDlvmOIsgeCNjy?si=343d79dc962f4e70) ;) <br>
+🎵 I love [music](https://open.spotify.com/intl-pt/track/0ghzMo2eNij7veg1kG3p9p?si=635ce5590a6b4de1);) <br>
  📚 My [portfolio](https://douglimaonline.github.io/meu-site/) o/ <br> 
 <br>
 <br>
@@ -35,16 +35,12 @@
 
 <!-- DevIcons -->
 <div align="end" style="display: inline-block;"><br>
-<img alt="csharp-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img alt="bootstrap-icon" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img alt="python-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img alt="bootstrap-icon" height="29" width="29" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img alt="javascript-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="html5-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img alt="css3-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+ <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/overview"><img alt="csharp-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
+ <a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img alt="bootstrap-icon" height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /></a>
+ <a href="https://www.w3schools.com/sql/default.asp"><img alt="bootstrap-icon" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /></a>
+ <a href="https://www.python.org/psf-landing/"><img alt="python-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
+ <a href="https://react.dev/"><img alt="react-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+ <a href="https://nextjs.org/"><img alt="next-icon" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" /></a>
 </div>
 
 ##
