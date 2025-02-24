@@ -6,7 +6,7 @@
 </div>
 
 🌎 Rio de Janeiro. 🇧🇷 <br>
-🌱 I'm currently studying C# and its different applications. <br>
+🌱 Currently, I am developing my knowledge mainly in ReactJS, Next, Angular and GraphQL. <br>
 🥅  I am passionate about back-end developer and data science. <br>
 🐶 !'m a dog person. <br>
 🎵 I love [music](https://open.spotify.com/intl-pt/track/0ghzMo2eNij7veg1kG3p9p?si=635ce5590a6b4de1);) <br>
