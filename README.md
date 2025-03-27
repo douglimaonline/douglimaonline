@@ -25,8 +25,8 @@
 
 <!-- Repositories -->
 <div align="center"<br>
-  <a href="https://github.com/douglimaonline/Web_development_projects" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Web_development_projects&theme=transparent&title_color=D4C5BB&hide_border=true" />
+  <a href="https://github.com/douglimaonline/quiz" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=quiz&theme=transparent&title_color=D4C5BB&hide_border=true" />
 </a>
 <a href="https://github.com/douglimaonline/Csharp" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=Csharp&theme=transparent&title_color=D4C5BB&hide_border=true" />
