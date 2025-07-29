@@ -1,4 +1,4 @@
-### <h2 align="center">Hello, I'm [Douglas Barboza](https://www.linkedin.com/in/douglas-barboza/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></img><br>Software Developer | C# | .NET 6.0 | SQL | JavaScript</h2> <br>
+### <h2 align="center">Hello, I'm [Douglas Barboza](https://www.linkedin.com/in/douglas-barboza/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></img><br>Software Developer | React | FastAPI | .NET 6.0 | GraphQL</h2> <br>
 
 <!-- About me -->
 <div>
@@ -6,7 +6,7 @@
 </div>
 
 🌎 Rio de Janeiro. 🇧🇷 <br>
-🌱 Currently, I am developing my knowledge mainly in ReactJS, Next, Angular and GraphQL. <br>
+🌱 Currently, I am developing my knowledge mainly in ReactJS and FastAPI. <br>
 🥅  My goal is to become a FullStack developer. <br>
 🐶 !'m a dog person. <br>
 🎵 I love [music](https://open.spotify.com/intl-pt/track/0ghzMo2eNij7veg1kG3p9p?si=635ce5590a6b4de1);) <br>
