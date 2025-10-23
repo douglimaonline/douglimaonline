@@ -6,7 +6,7 @@
 </div>
 
 🌎 Rio de Janeiro. 🇧🇷 <br>
-🌱 Currently, I am developing my knowledge mainly in ReactJS and FastAPI. <br>
+🌱 Currently, I am developing my knowledge mainly in .NET and FastAPI. <br>
 🥅  My goal is to become a FullStack developer. <br>
 🐶 !'m a dog person. <br>
 🎵 I love [music](https://open.spotify.com/intl-pt/track/0ghzMo2eNij7veg1kG3p9p?si=635ce5590a6b4de1);) <br>
