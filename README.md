@@ -14,16 +14,17 @@
 <br>
 <br>
 
-<!-- Most Used Lenguage Stats -->
+<!-- Most Used Lenguage Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=douglimaonline&hide=contribs&show_icons=true&theme=transparent&hide_border=true&title_color=D4C5BB&hide_rank=true&card_width=320&locale=pt-br">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglimaonline&layout=donut&theme=transparent&hide_border=true&title_color=D4C5BB&include_all_commits=true&langs_count=7&hide=Rich+Text+Format,html"
     alt="stats"><br />
  <br>
 </div>
+-->
 
 
-<!-- Repositories -->
+<!-- Repositories 
 <div align="center"<br>
   <a href="https://github.com/douglimaonline/quiz" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=quiz&theme=transparent&title_color=D4C5BB&hide_border=true" />
@@ -32,6 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=douglimaonline&repo=meu-site&theme=transparent&title_color=D4C5BB&hide_border=true" />
 </a>
 </div>
+-->
 
 <!-- DevIcons -->
 <div align="end" style="display: inline-block;"><br>
