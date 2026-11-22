@@ -43,9 +43,9 @@
  <a href="https://www.python.org/psf-landing/"><img alt="python-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
  <a href="https://angular.dev/"><img alt="angular-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" /></a>
  <a href="https://react.dev/"><img alt="react-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
- <a href="https://nextjs.org/"><img alt="next-icon" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" /></a>
- <a href="https://www.djangoproject.com/"><img alt="next-icon" height="47" width="47" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/></a>
-<a href="https://www.databricks.com/"><img alt="next-icon" height="47" width="47" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/databricks.svg" /></a>
+ <a href="https://nextjs.org/"><img alt="next-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" /></a>
+ <a href="https://www.djangoproject.com/"><img alt="next-icon" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/></a>
+<a href="https://www.databricks.com/"><img alt="next-icon" height="35" width="35" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/databricks.svg" /></a>
 </div>
 
 ##
